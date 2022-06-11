@@ -17,5 +17,5 @@ Checkout co( pricingRules );
 co.scan( “apples” );
 co.scan( “donuts” );
 co.scan( “bananas” );
-//etc.
+etc.
 Price = co.total;
